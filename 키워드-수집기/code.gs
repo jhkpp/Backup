@@ -1,8 +1,8 @@
 //
-// https://docs.google.com/spreadsheets/d/1UIx08g0y_ePqDvEpWoL8Ez970mv3bdKjr7UfBqSa53c/edit#gid=0
+// 
 //
 const MAXVALUE = 20; // 최대 20
-const URL = "https://api.itemscout.io/api/v2/keyword/trend/" + "?period=DAILY";
+const URL = "XXXXXXXXXXXXXXXX";
 
 let getKeyValue = function(jsf, name){
   let ln = jsf.indexOf(name);
